@@ -3,7 +3,6 @@
     package="com.example.mandandroid"
     android:versionCode="1"
     android:versionName="1.0" 
-    android:installLocation="preferExternal"
     >
 
     <uses-sdk
